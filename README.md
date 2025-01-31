@@ -1,16 +1,19 @@
-## Hi there 👋
+🚀 Quantitative Finance | Algorithmic Trading | Quant Research
 
-<!--
-**Yasser0218/Yasser0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Yasser, an engineer-turned-finance professional passionate about capital markets, algorithmic trading, and quantitative research. With a strong foundation in mathematics, programming (Python, C++), and econometrics, I specialize in developing statistical arbitrage strategies, market-making algorithms, and quantitative models for high-frequency trading (HFT).
 
-Here are some ideas to get you started:
+🔹 Background:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering degree (China) with expertise in mathematics, mechanics, and programming
+Master's in Applied Economics (Econometrics & Forecasting)
+Master's in International Finance @ NEOMA (Risk Modeling, Derivatives, and Pricing Models)
+🔹 Experience:
+
+Equity Research (Ferrari) in partnership with @ AXA Investment Managers, Hong Kong
+Extensive work with panel data, ADRL models, and quantitative research
+🔹 Current Focus:
+
+📈 Building a Statistical Arbitrage Strategy
+🏦 Developing a Market-Making Algorithm for HFT
+💡 Exploring machine learning in quantitative finance
+💻 Check out my repositories for Market finance-related models, trading strategies, and algorithmic research. Let’s connect and collaborate!
