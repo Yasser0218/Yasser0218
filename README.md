@@ -7,10 +7,12 @@ Hi! I'm Yasser, an engineer-turned-finance professional passionate about capital
 Engineering degree (China) with expertise in mathematics, mechanics, and programming
 Master's in Applied Economics (Econometrics & Forecasting)
 Master's in International Finance @ NEOMA (Risk Modeling, Derivatives, and Pricing Models)
+
 🔹 Experience:
 
 Equity Research (Ferrari) in partnership with @ AXA Investment Managers, Hong Kong
 Extensive work with panel data, ADRL models, and quantitative research
+
 🔹 Current Focus:
 
 📈 Building a Statistical Arbitrage Strategy
