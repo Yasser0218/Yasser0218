@@ -4,9 +4,9 @@ Hi! I'm Yasser, an engineer-turned-finance professional passionate about capital
 
 🔹 Background:
 
-Engineering degree (China) with expertise in mathematics, mechanics, and programming
-Master's in Applied Economics (Econometrics & Forecasting)
-Master's in International Finance @ NEOMA (Risk Modeling, Derivatives, and Pricing Models)
+Bachelor's in Aeronautical Engioneering
+Master's in Applied Economics
+Master's in Financial Markets & Risk Management
 
 🔹 Current Focus:
 
